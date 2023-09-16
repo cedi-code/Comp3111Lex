@@ -8,7 +8,7 @@ public class mainApp1 {
         System.out.println(b + "^" + n + "=" + myLibrary.Power(b,n));
         System.out.println(n + "! = " + myLibrary.factorial(n));
 
-        System.out.println("oi");
+        System.out.println("woah mama");
         System.out.println("changed something 123");
 
     }
